@@ -60,6 +60,8 @@ This project provides a script to monitor the health of a Linux system. The scri
 ```bash
 python system_health_monitor.py
 ```
+
+## Logging
 The script will print the CPU usage, memory usage, disk space, and running processes and log the results to `system_health.log`.
 
 # Application Health Checker
