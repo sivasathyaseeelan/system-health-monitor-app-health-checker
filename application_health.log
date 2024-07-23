@@ -1,0 +1,4 @@
+INFO:root:2024-07-23T17:01:21.893552 - http://ab4cee4aa148440dc9f61bc8ce46bf27-238763611.ap-south-1.elb.amazonaws.com - up - Status Code: 200
+INFO:root:2024-07-23T17:01:23.510724 - http://ab4cee4aa148440dc9f61bc8ce46bf27-238763611.ap-south-1.elb.amazonaws.com - up - Status Code: 200
+INFO:root:2024-07-23T17:01:24.986789 - http://ab4cee4aa148440dc9f61bc8ce46bf27-238763611.ap-south-1.elb.amazonaws.com - up - Status Code: 200
+INFO:root:2024-07-23T17:01:26.674638 - http://ab4cee4aa148440dc9f61bc8ce46bf27-238763611.ap-south-1.elb.amazonaws.com - up - Status Code: 200
