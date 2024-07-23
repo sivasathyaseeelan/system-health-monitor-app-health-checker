@@ -57,12 +57,11 @@ This project provides a script to monitor the health of a Linux system. The scri
 
 2. **Run the script**:
 
-```bash
-python system_health_monitor.py
-```
-
-## Logging
-The script will print the CPU usage, memory usage, disk space, and running processes and log the results to `system_health.log`.
+    ```bash
+    python system_health_monitor.py
+    ```
+    
+    The script will print the CPU usage, memory usage, disk space, and running processes and log the results to `system_health.log`.
 
 # Application Health Checker
 
@@ -93,12 +92,3 @@ The Application Health Checker is a Python script designed to monitor the uptime
     ```
 
     The script will print the status of the application and log the results to `application_health.log`.
-
-## Configuration
-
-- **`url`**: Update this variable in `application_health_checker.py` to point to the URL of the application you want to monitor.
-- **`acceptable_statuses`**: Modify the `acceptable_statuses` list in the script if you want to allow different HTTP status codes for a healthy application.
-
-## Logging
-
-The script logs health check results to `application_health.log`. Logs include timestamps, URLs, status codes, and any errors encountered.
